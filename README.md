@@ -1,2 +1,2 @@
-# Dio-Desaf-o-Primeiro-Reposit-rio
+# Dio-Desafío-Primeiro-Repositório
 Criação de primeiro repositório
